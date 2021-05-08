@@ -6,7 +6,7 @@ class User {
 //     Ma umożliwiać: zmianę email, zmianę hasła
 }
 
-// Dodatkowo User ma mieć walidacje wykonaną za pomocą is.js oraz datę obsługiwaną przez bibliotekę moment.js				
+// Dodatkowo USER ma mieć walidacje wykonaną za pomocą is.js oraz datę obsługiwaną przez bibliotekę moment.js
 // - email ma być poprawnym emailem				
 // - password ma mieć min 8 znaków, co najmniej jedną wielką literę i co najmniej jedną cyfrę oraz co najmniej 1 znak specjalny				
 // - płeć musi być ze zbioru [male, female]				
